@@ -1,0 +1,4 @@
+aiogram==2.24 
+wikipedia==1.4.0
+logging4==0.0.2
+logging2==0.1.2
